@@ -1,1 +1,3 @@
-print("lesson1.py is running")
+import flask
+
+print(flask.__version__)
